@@ -1,0 +1,5 @@
+{
+  "name": "StyleMy Outfit",
+  "description": "A virtual try-on application that uses AI to show you how you would look in a new outfit. Simply upload a photo of yourself and a photo of the clothing.",
+  "requestFramePermissions": []
+}
